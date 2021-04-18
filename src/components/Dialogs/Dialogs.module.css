@@ -1,0 +1,15 @@
+.dialogs{
+    display: grid;
+    grid-template-columns: 2fr 10fr;
+  
+}
+
+.dialogItems{
+    background-color: #fff;
+    padding: 10px;
+ 
+}
+.textArea{
+    margin: 5px;
+}
+

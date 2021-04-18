@@ -1,0 +1,19 @@
+.friends{
+    border-radius: 50%;
+    height: 20px;  
+    width: 20px;
+  
+  }
+  
+  p{
+    font-size: 10px;
+    margin-top: 5px;
+  }
+  
+  .inline{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-right: 10px;
+  }

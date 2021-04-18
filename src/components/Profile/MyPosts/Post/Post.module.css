@@ -1,0 +1,22 @@
+.wrapper{
+    display: flex;
+    padding-bottom: 50px;
+}
+
+.postTitle{
+    text-decoration: underline;
+    margin: 5px 10px 10px ;
+}
+
+.postText{
+    color: cornsilk;
+    margin: 0 10px;
+}
+
+.avatar{
+    width: 75px;
+}
+span{
+    color: red;
+    margin: 0 10px;
+}

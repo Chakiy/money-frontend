@@ -1,0 +1,19 @@
+.nav{
+  grid-area: nav;
+  background-color: burlywood;
+  padding: 10px;
+}
+.item a{
+  color: rgb(240, 255, 243);
+  text-decoration: none;
+}
+
+.item a.active{
+  color: gold;
+  text-decoration: none;
+}
+
+.flex{
+  display: flex;
+  margin-top: 20px;
+}
